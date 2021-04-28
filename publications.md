@@ -13,8 +13,6 @@ The 27th International Joint Conference on Artificial Intelligence (IJCAI 2018)
 Mingxin Zhang, **Zhijie Wang**, Tiezhu Sun, Xiaolei Li<br/>
 The 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO 2019)
 
----
-
 ## Journal Papers
 
 1. Salient Object Detection with Adversarial Training<br/>
