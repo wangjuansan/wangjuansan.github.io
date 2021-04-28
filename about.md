@@ -9,6 +9,8 @@ I am a 2nd year PhD student at Computere Vision Lab., Tohoku University. Before 
 
 My research interests include semantic segmentation and domain adaptation.
 
+[CV](zhijiew.github.io/cv) [Publications](zhijiew.github.io/cv)
+
 <!--You can use the [editor on GitHub](https://github.com/zhijiew/zhijiew.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.-->
 
 <!--Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
