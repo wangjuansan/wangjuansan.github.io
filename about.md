@@ -9,4 +9,4 @@ I am a 2nd year PhD student at Computere Vision Lab., Tohoku University. Before 
 
 My research interests include semantic segmentation and domain adaptation.
 
-[CV](zhijiew.github.io/cv/) [Publications](zhijiew.github.io/publications/)
+[CV](cv) [Publications](publications)
