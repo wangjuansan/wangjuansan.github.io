@@ -2,3 +2,6 @@ title: Zhijie Wang
 author: Zhijie Wang
 #theme: jekyll-theme-cayman
 remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "light"
