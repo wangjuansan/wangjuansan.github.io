@@ -1,3 +1,4 @@
+theme: jekyll-theme-cayman
 title: Zhijie Wang
 author: Zhijie Wang
 description: Zhiije Wang's Homepage
@@ -7,5 +8,3 @@ sass:
 
 plugins:
   - jekyll-seo-tag
-
-theme: jekyll-theme-cayman
