@@ -1,8 +1,7 @@
-title: Home
+title: Zhijie Wang
 author: Zhijie Wang
 #remote_theme: riggraz/no-style-please
-#remote_theme: ritijjain/pudhina-fresh
-#description: Zhiije Wang's Homepage
+description: Zhiije Wang's Homepage
 
 #theme_config:
 #  appearance: "light"
@@ -10,9 +9,8 @@ author: Zhijie Wang
 #  date_format: "%Y-%m-%d" # customize how date is formatted
 #  show_description: false # show blog description in home page
 
-#sass:
-#  style: :compressed
+sass:
+  style: :compressed
 
-#plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+  - jekyll-seo-tag
