@@ -1,6 +1,7 @@
 title: Zhijie Wang
 author: Zhijie Wang
 description: Zhiije Wang's Homepage
+remote_theme: alexcarpenter/butane-jekyll-theme
 
 sass:
   style: :compressed
