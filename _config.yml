@@ -1,6 +1,8 @@
 title: Zhijie Wang
 author: Zhijie Wang
-description: Zhiije Wang's Homepage
+#description: Zhiije Wang's Homepage
+
+show_downloads: false
 theme: jekyll-theme-cayman
 #remote_theme: 
 
