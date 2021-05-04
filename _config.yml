@@ -6,6 +6,11 @@ show_downloads: false
 theme: jekyll-theme-cayman
 #remote_theme: 
 
+github:
+  home: /
+  cv: /cv
+  publications: /publications
+    
 sass:
   style: :compressed
 
