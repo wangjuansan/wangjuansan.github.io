@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: default
-title: "About Me"
+title: "Home"
 ---
 
 ## About Me
