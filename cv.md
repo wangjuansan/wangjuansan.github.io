@@ -6,9 +6,13 @@ permalink: /cv/
 
 ## Education
 
-* B.S. in China University of Petroleum, 2016
-* M.S. in Shandong University, 2019
-* Ph.D in Tohoku University, 2022 (expected)
+<!--* B.S. in China University of Petroleum, 2012 - 2016-->
+* Shandong University, Jinan, China <p align="right">2016 - 2019</p>
+  * M.S. student at Visual, Sensing and Intelligent System Lab.
+  * Advisor: Professor Wei Zhang
+* Tohoku University, Sendai, Japan <p align="right">2019 - Present</p>
+  * Ph.D. student at Computer Vision Lab.
+  * Advisor: Professor Takayuki Okatani
 
 ## Work experience
 
