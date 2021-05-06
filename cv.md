@@ -8,7 +8,7 @@ permalink: /cv/
 
 <!--* B.S. in China University of Petroleum, 2012 - 2016-->
 
-<p style="text-align:left;margin-bottom:0;">
+* <p style="text-align:left;margin-bottom:0;">
     Shandong University, Jinan, China
     <span style="float:right;">
         2016 - 2019
@@ -17,7 +17,7 @@ permalink: /cv/
   * M.S. student at Visual, Sensing and Intelligent System Lab.
   * Advisor: Professor Wei Zhang
 
-<p style="text-align:left;margin-bottom:0;">
+* <p style="text-align:left;margin-bottom:0;">
     Tohoku University, Sendai, Japan
     <span style="float:right;">
         2019 - Present
