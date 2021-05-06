@@ -13,7 +13,6 @@ permalink: /cv/
     <span style="float:right;">
         2016 - 2019
     </span>
-<!--</p>-->
   * M.S. student at Visual, Sensing and Intelligent System Lab.
   * Advisor: Professor Wei Zhang
 
@@ -22,20 +21,31 @@ permalink: /cv/
     <span style="float:right;">
         2019 - Present
     </span>
-<!--</p>-->
   * Ph.D. student at Computer Vision Lab.
   * Advisor: Professor Takayuki Okatani
 
 ## Work experience
 
-* 2019.10 - Now: Research Assistant, Tohoku University
+* <p style="text-align:left;margin-bottom:0;">
+    Research Assistant, Tohoku University
+    <span style="float:right;">
+        2019.10 - Now
+    </span>
   * Worked on domain adaptation for semantic segmentation
 
-* 2019.6 - 2019.8: Research Intern, Ficha Inc.
+* <p style="text-align:left;margin-bottom:0;">
+    Research Intern, Ficha Inc.
+    <span style="float:right;">
+        2019.6 - 2019.8
+    </span>
   * Mentor: Dr. Hui Cao
   * Worked on lightweight semantic segmentation networks
 
-* 2018.1 - 2019.5: Research Intern, Tencent AI Lab.
+* <p style="text-align:left;margin-bottom:0;">
+    Research Intern, Tencent AI Lab.
+    <span style="float:right;">
+        2018.1 - 2019.5
+    </span>
   * Mentor: Dr. Lin Ma
   * Worked on image semantic segmentation and classification
   
