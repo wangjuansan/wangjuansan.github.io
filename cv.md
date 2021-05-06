@@ -13,10 +13,16 @@ permalink: /cv/
     <span style="float:right;">
         2016 - 2019
     </span>
+</p>
   * M.S. student at Visual, Sensing and Intelligent System Lab.
   * Advisor: Professor Wei Zhang
+
+<p style="text-align:left;">
+    Tohoku University, Sendai, Japan
+    <span style="float:right;">
+        2019 - Present
+    </span>
 </p>
-* 2019 - Present: Tohoku University, Sendai, Japan
   * Ph.D. student at Computer Vision Lab.
   * Advisor: Professor Takayuki Okatani
 
