@@ -12,7 +12,7 @@ permalink: /cv/
     Shandong University, Jinan, China
     <span style="float:right;">
         2016 - 2019
-    <\span>
+    </span>
 </p>
   * M.S. student at Visual, Sensing and Intelligent System Lab.
   * Advisor: Professor Wei Zhang
