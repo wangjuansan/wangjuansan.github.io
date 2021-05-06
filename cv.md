@@ -29,7 +29,7 @@ permalink: /cv/
 * <p style="text-align:left;margin-bottom:0;">
     Research Assistant, Tohoku University
     <span style="float:right;">
-        2019.10 - Now
+        2019.10 - Present
     </span>
   * Worked on domain adaptation for semantic segmentation
 
