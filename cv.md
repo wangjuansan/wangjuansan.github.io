@@ -7,7 +7,13 @@ permalink: /cv/
 ## Education
 
 <!--* B.S. in China University of Petroleum, 2012 - 2016-->
-* 2016 - 2019: Shandong University, Jinan, China
+
+<p style="text-align:left;">
+    Shandong University, Jinan, China
+    <span style="float:right;">
+        2016 - 2019
+    <\span>
+</p>
   * M.S. student at Visual, Sensing and Intelligent System Lab.
   * Advisor: Professor Wei Zhang
 * 2019 - Present: Tohoku University, Sendai, Japan
