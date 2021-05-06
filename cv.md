@@ -13,7 +13,7 @@ permalink: /cv/
     <span style="float:right;">
         2016 - 2019
     </span>
-</p>
+<!--</p>-->
   * M.S. student at Visual, Sensing and Intelligent System Lab.
   * Advisor: Professor Wei Zhang
 
@@ -22,7 +22,7 @@ permalink: /cv/
     <span style="float:right;">
         2019 - Present
     </span>
-</p>
+<!--</p>-->
   * Ph.D. student at Computer Vision Lab.
   * Advisor: Professor Takayuki Okatani
 
