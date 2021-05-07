@@ -19,3 +19,8 @@ The 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO 2019)
 * Salient Object Detection with Adversarial Training<br/>
 **Zhijie Wang**, Wei Zhang, Xuewen Rong, Yibin Li<br/>
 IET Image Processing
+
+* EFNet: Enhancement-Fusion Network for Semantic Segmentation<br/>
+**Zhijie Wang**, Ran Songa, Peng Duan, Xiaolei Li<br/>
+Pattern Recognition
+
