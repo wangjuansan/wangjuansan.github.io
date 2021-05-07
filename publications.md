@@ -21,6 +21,6 @@ The 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO 2019)
 IET Image Processing
 
 * EFNet: Enhancement-Fusion Network for Semantic Segmentation<br/>
-**Zhijie Wang**, Ran Songa, Peng Duan, Xiaolei Li<br/>
+**Zhijie Wang**, Ran Song, Peng Duan, Xiaolei Li<br/>
 Pattern Recognition
 
