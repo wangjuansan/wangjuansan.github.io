@@ -51,8 +51,10 @@ permalink: /cv/
   
 ## Competitions
 
-* ISIC Live Challenge for Skin Lesion Bundary Segmentation, Rank: 11 / 192
-* iMaterialist Challenge (Fashion) at FGVC5 (CVPR2018 Workshop), Rank: 20 / 428
+* ISIC Live Challenge for Skin Lesion Bundary Segmentatio
+  * Rank: 11 / 192
+* iMaterialist Challenge (Fashion) at FGVC5 (CVPR2018 Workshop)
+  * Rank: 20 / 428
 
 ## Awards and Honors
 * Outstanding Graduate Student, China University of Petroleum
