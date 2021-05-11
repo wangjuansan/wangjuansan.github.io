@@ -24,7 +24,7 @@ permalink: /cv/
   * Ph.D. student at Computer Vision Lab.
   * Advisor: Professor Takayuki Okatani
 
-## Work experience
+## Work Experience
 
 * <p style="text-align:left;margin-bottom:0;">
     Research Assistant, Tohoku University
