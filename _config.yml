@@ -18,7 +18,7 @@ featured_posts:
 collections:
   news:
     title: News
-    default_open: false
+    default_open: true
     output: true
 
 plugins:
