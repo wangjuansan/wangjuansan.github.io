@@ -3,12 +3,21 @@ author: Zhijie Wang
 #description: Zhiije Wang's Homepage
 
 show_downloads: false
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: ankitsultana/researcher@gem
 
-github:
-  home: /
-  cv: /cv
-  publications: /publications
+#github:
+#  home: /
+#  cv: /cv
+#  publications: /publications
+
+nav:
+ - name: "About"
+   link: "/about"
+ - name: "Resume"
+   link: "/cv"
+ - name: "Publications"
+   link: "/publications"
     
 sass:
   style: :compressed
