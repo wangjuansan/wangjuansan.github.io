@@ -13,11 +13,11 @@ remote_theme: ankitsultana/researcher@gem
 
 nav:
  - name: "About"
-   link: "/about"
+   link: "/"
  - name: "Resume"
-   link: "/cv"
+   link: "cv"
  - name: "Publications"
-   link: "/publications"
+   link: "publications"
     
 sass:
   style: :compressed
