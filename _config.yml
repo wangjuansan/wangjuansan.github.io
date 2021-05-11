@@ -6,7 +6,7 @@ markdown: kramdown
 
 nav:
  - name: "About"
-   link: "/zhijiew.github.io/"
+   link: "about"
  - name: "Resume"
    link: "cv"
  - name: "Publications"
