@@ -21,12 +21,5 @@ collections:
     default_open: false
     output: true
 
-defaults:
-  - scope:
-      type: news
-    values:
-      title: News
-      permalink: /news/:title
-
 plugins:
   - jekyll-sitemap
