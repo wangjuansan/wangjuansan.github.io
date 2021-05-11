@@ -37,10 +37,10 @@ plugins:
 
 # navbar pages
 navbar:
-  - slug : about
-    title: About
-  - slug : blog
-    title: Blog
+  - slug : CV
+    title: CV
+  - slug : Publications
+    title: Publications
 
 exclude:
   - "gulp"
