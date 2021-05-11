@@ -1,29 +1,17 @@
 title: Zhijie Wang
 author: Zhijie Wang
+baseurl: "/zhijiew.github.io"
 
 markdown: kramdown
-#description: Zhiije Wang's Homepage
-
-show_downloads: false
-#theme: jekyll-theme-cayman
-remote_theme: ankitsultana/researcher@gem
-
-#github:
-#  home: /
-#  cv: /cv
-#  publications: /publications
 
 nav:
  - name: "About"
-   link: "/"
+   link: "/zhijiew.github.io/"
  - name: "Resume"
-   link: "/cv"
+   link: "cv"
  - name: "Publications"
-   link: "/publications"
+   link: "publications"
     
 sass:
-#  style: :compressed
   style: compressed
-
-#plugins:
-#  - jekyll-seo-tag
+  sass_dir: _sass
