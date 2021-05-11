@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-layout: compact_page
+layout: cpage
 permalink: /publications/
 ---
 

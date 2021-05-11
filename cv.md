@@ -1,6 +1,6 @@
 ---
-title: ""
-layout: page
+title: "CV"
+layout: cpage
 permalink: /cv/
 ---
 
