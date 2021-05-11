@@ -1,17 +1,24 @@
-title: Zhijie Wang
-author: Zhijie Wang
-#description: Zhiije Wang's Homepage
+title: Researcher
+url: "https://ankitsultana.com"
+baseurl: "/researcher"
 
-show_downloads: false
-theme: jekyll-theme-cayman
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
 
-github:
-  home: /
-  cv: /cv
-  publications: /publications
-    
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
 sass:
-  style: :compressed
+    style: compressed
+    sass_dir: _sass
 
-plugins:
-  - jekyll-seo-tag
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
