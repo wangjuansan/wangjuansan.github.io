@@ -1,9 +1,7 @@
 ---
-permalink: /
-layout: default
-title: "Home"
+layout: page
+title: About
+permalink: /about/
 ---
 
-## About Me
-
-I am a PhD student at Computere Vision Lab., Tohoku University, advised by Prof. Takayuki Okatani. My research interests include semantic segmentation and domain adaptation.
+Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
