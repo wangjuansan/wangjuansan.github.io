@@ -2,16 +2,17 @@ title: Zhijie Wang
 author: Zhijie Wang
 #description: Zhiije Wang's Homepage
 
-show_downloads: false
-theme: jekyll-theme-cayman
+#show_downloads: false
+#theme: jekyll-theme-cayman
+remote_theme: ankitsultana/researcher@gem
 
-github:
-  home: /
-  cv: /cv
-  publications: /publications
+#github:
+#  home: /
+#  cv: /cv
+#  publications: /publications
     
 sass:
   style: :compressed
 
-plugins:
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-seo-tag
