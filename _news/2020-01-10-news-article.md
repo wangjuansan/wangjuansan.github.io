@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example Of A News Article
+iflink: false
 tags:
 - text
 - news
