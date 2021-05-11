@@ -20,17 +20,8 @@ collections:
     title: News
     default_open: false
     output: true
-  posts:
-    title: Essays
-    default_open: true
-    output: true
 
 defaults:
-  - scope:
-      type: posts
-    values:
-      title: Essays
-      permalink: /post/:title
   - scope:
       type: news
     values:
