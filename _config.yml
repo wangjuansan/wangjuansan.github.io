@@ -1,6 +1,6 @@
 # Site settings
 title_left    : "Zhijie"
-title_right   : "Wang" # default: ""
+title_right   : " Wang" # default: ""
 description   : "Zhijie Wang's Homepage"
 keywords      : "Zhijie Wang"
 url           : https://zhijiew.github.io # site url
