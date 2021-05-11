@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Zhijie"
 title_right   : " Wang" # default: ""
-description   : "Zhijie Wang's Homepage"
+description   : "Zhijie Wang"
 keywords      : "Zhijie Wang"
 url           : https://zhijiew.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
