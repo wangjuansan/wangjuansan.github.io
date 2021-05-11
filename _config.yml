@@ -4,7 +4,7 @@ author: Zhijie Wang
 
 show_downloads: false
 #theme: jekyll-theme-cayman
-remote_theme: ankitsultana/researcher
+remote_theme: ankitsultana/researcher@gem
 
 github:
   home: /
