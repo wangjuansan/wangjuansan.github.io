@@ -1,7 +1,7 @@
 ---
-permalink: /
+<!--permalink: /-->
 layout: default
-title: "Home"
+<!--title: "Home"-->
 ---
 
 ## About Me
