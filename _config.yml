@@ -2,7 +2,7 @@ title: Zhijie Wang
 author: Zhijie Wang
 #description: Zhiije Wang's Homepage
 
-show_downloads: false
+#show_downloads: false
 #theme: jekyll-theme-cayman
 remote_theme: rahul-bothra/parchment 
 
@@ -11,8 +11,8 @@ remote_theme: rahul-bothra/parchment
 #  cv: /cv
 #  publications: /publications
     
-sass:
-  style: :compressed
+#sass:
+#  style: :compressed
 
-plugins:
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-seo-tag
