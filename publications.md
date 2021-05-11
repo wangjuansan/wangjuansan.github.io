@@ -3,7 +3,6 @@ title: "Publications"
 layout: cpage
 permalink: /publications/
 ---
-
 ## Conference Papers
 
 * Image-level to Pixel-wise Labeling: From Theory to Practice<br/>

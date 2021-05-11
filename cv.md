@@ -3,7 +3,6 @@ title: "CV"
 layout: cpage
 permalink: /cv/
 ---
-
 ## Education
 
 <!--* B.S. in China University of Petroleum, 2012 - 2016-->
