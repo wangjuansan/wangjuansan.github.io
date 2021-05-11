@@ -1,63 +1,41 @@
-# Site settings
-title_left    : "Zhijie"
-title_right   : " Wang" # default: ""
-description   : "Zhijie Wang"
-keywords      : "Zhijie Wang"
-url           : https://zhijiew.github.io # site url
-baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "" # image uri like logo/cover image for site seo
+title : Elementary - Jekyll Blog Theme
+name: 'Elementary Jekyll Theme'
+description: 'Simple, light weight, responsive jekyll theme for hackers'
 
-google_analytics  : UA-XXXXX-XX
-twitter_username  : ""
-comments_enabled  : false # if enabled (set to true), please provide your disqus_username
-disqus_shortname  : ""
-postshare_enabled : false
+markdown: kramdown
+highlighter: rouge
+javascript_enabled: true
 
-# Build settings
-permalink   : /:year/:title/
-markdown    : kramdown
-highlighter : rouge
+featured_posts_title: Unrelated
+featured_posts:
+  - url: '#'
+    title: 'Featured post #1'
+  - url: '#'
+    title: 'Featured post #2'
+  - url: '#'
+    title: 'Featured post #3'
 
-source      : ./
-destination : ./_site
+collections:
+  news:
+    title: News
+    default_open: false
+    output: true
+  posts:
+    title: Essays
+    default_open: true
+    output: true
 
-# Sass configuration
-sass:
-  sass_dir  : assets/scss
-  style     : compressed # expanded
-
-# Author settings
-author:
-  name     : "Zhijie Wang"
+defaults:
+  - scope:
+      type: posts
+    values:
+      title: Essays
+      permalink: /post/:title
+  - scope:
+      type: news
+    values:
+      title: News
+      permalink: /news/:title
 
 plugins:
   - jekyll-sitemap
-  - bourbon
-  - jekyll-paginate
-
-# navbar pages
-navbar:
-  - slug : CV
-    title: CV
-  - slug : Publications
-    title: Publications
-
-exclude:
-  - "gulp"
-  - "node_modules"
-  - "bower"
-  - "bower_components"
-  - "config.rb"
-  - "src"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - ".rvmrc"
-  - ".rbenv-version"
-  - "package.json"
-  - "gulpfile.js"
-  - "README.md"
-  - "Rakefile"
-  - "changelog.md"
-  - "script"
-  - "vendor"
-  - "thinkspace.gemspec"
