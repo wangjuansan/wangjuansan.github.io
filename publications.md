@@ -1,6 +1,6 @@
 ---
-title: ""
-layout: page
+title: "Publications"
+layout: compact_page
 permalink: /publications/
 ---
 
