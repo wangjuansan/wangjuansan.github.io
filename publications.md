@@ -6,7 +6,7 @@ permalink: /publications/
 ## Conference Papers
 
 * Image-level to Pixel-wise Labeling: From Theory to Practice<br/>
-Tiezhu Sun, Wei Zhang, **Zhijie Wang**, Lin Ma, Zequn Jie<br/>
+Tiezhu Sun, Wei Zhang, <u>Zhijie Wang</u>, Lin Ma, Zequn Jie<br/>
 The 27th International Joint Conference on Artificial Intelligence (IJCAI 2018)
 
 <!--* Salient Object Detection by Pyramid Networks with Gating<br/>-->
@@ -20,6 +20,6 @@ The 27th International Joint Conference on Artificial Intelligence (IJCAI 2018)
 <!--IET Image Processing-->
 
 * EFNet: Enhancement-Fusion Network for Semantic Segmentation<br/>
-**Zhijie Wang**, Ran Song, Peng Duan, Xiaolei Li<br/>
+<u>Zhijie Wang</u>, Ran Song, Peng Duan, Xiaolei Li<br/>
 Pattern Recognition
 
