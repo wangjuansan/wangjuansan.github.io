@@ -1,4 +1,4 @@
-# My Homepage
+# Homepage
 
 Theme: Elementary
 
