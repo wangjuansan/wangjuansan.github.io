@@ -1,4 +1,0 @@
-# Homepage
-
-Theme: Elementary
-
