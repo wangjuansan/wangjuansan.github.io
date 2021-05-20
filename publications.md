@@ -25,10 +25,9 @@ function boldMe(var1) {
 <ul>
 {% for pub in site.data.pubs.journal %}
   {% if pub.show %}
-    var new_name = {{ pub.authors }}
     <li>
       {{ pub.title }}<br/>
-      {{ boldMe(pub.authors) }}<br/>
+      {{ boldMe({{ pub.authors }}) }}<br/>
       {{ pub.pubin }}
     </li>
   {% endif %}
