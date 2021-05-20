@@ -38,6 +38,6 @@ permalink: /publications/
 <script>
     var x = document.getElementsByClassName("authors");
     for (var i = 0; i < x.length; i++) {
-        document.body.innerHTML = document.body.innerHTML.replace(x[i].innerHTML, 'DT');
+        document.body.innerHTML = document.body.innerHTML.replace('Zhijie Wang', 'DT');
     }
 </script>
