@@ -9,7 +9,7 @@ permalink: /publications/
 {% for pub in site.data.pubs.conference %}
   {% if pub.show %}
     <li>
-      pub.title<br/>pub.authors<br/>pub.pubin
+      {{ pub.title }}<br/>{{ pub.authors }}<br/>{{ pub.pubin }}
     </li>
   {% endif %}
 {% endfor %}
@@ -20,7 +20,7 @@ permalink: /publications/
 {% for pub in site.data.pubs.journal %}
   {% if pub.show %}
     <li>
-      pub.title<br/>pub.authors<br/>pub.pubin
+      {{ pub.title }}<br/>{{ pub.authors }}<br/>{{ pub.pubin }}
     </li>
   {% endif %}
 {% endfor %}
