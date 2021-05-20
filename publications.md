@@ -1,5 +1,5 @@
 ---
-title: site.data.pubs.title
+title: {{ site.data.pubs.title }}
 layout: page
 permalink: /publications/
 ---
