@@ -14,7 +14,7 @@ permalink: /publications/
 ## Journal Papers
 {% for pub in site.data.pubs.journal %}
   {% if pub.show %}
-    pub.title<br/>pub.authors<br/>pub.pubin<br/>
+    * pub.title<br/>pub.authors<br/>pub.pubin<br/>
   {% endif %}
 {% endfor %}
 
