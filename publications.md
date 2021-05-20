@@ -5,18 +5,26 @@ permalink: /publications/
 ---
 
 ## Conference Papers
+<ul>
 {% for pub in site.data.pubs.conference %}
   {% if pub.show %}
-    pub.title<br/>pub.authors<br/>pub.pubin<br/>
+    <li>
+      pub.title<br/>pub.authors<br/>pub.pubin
+    </li>
   {% endif %}
 {% endfor %}
+</ul>
 
 ## Journal Papers
+<ul>
 {% for pub in site.data.pubs.journal %}
   {% if pub.show %}
-    * pub.title<br/>pub.authors<br/>pub.pubin<br/>
+    <li>
+      pub.title<br/>pub.authors<br/>pub.pubin
+    </li>
   {% endif %}
 {% endfor %}
+</ul>
 
 
 <!--* Image-level to Pixel-wise Labeling: From Theory to Practice<br/>-->
