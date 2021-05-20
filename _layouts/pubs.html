@@ -2,12 +2,6 @@
 layout: default
 ---
 
-<script>
-function boldMe(var1) {
-  return var1.replace("Zhijie Wang", "DT");
-}
-</script>
-
 <header>
     <h1>{{ page.title }}</h1>
 </header>
@@ -18,9 +12,9 @@ function boldMe(var1) {
 
     <article>
         <script>
-            {{ content }}.replace("Zhijie Wang", "DT");
+            {{ content }} = {{ content }}.replace("Zhijie Wang", "DT");
         </script>
-        {{content}}
+        {{ content }}
     </article>
 
 </main>

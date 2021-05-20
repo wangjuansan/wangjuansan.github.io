@@ -1,14 +1,8 @@
 ---
 title: Publications
-layout: page
+layout: pubs
 permalink: /publications/
 ---
-
-<script>
-function boldMe(var1) {
-  return var1.replace("Zhijie Wang", "DT");
-}
-</script>
 
 ## Conference Papers
 <ul>
@@ -24,11 +18,10 @@ function boldMe(var1) {
 ## Journal Papers
 <ul>
 {% for pub in site.data.pubs.journal %}
-  boldName = boldMe({{ pub.authors }})
   {% if pub.show %}
     <li>
       {{ pub.title }}<br/>
-      {{ boldName }}<br/>
+      {{ pub.authors }}<br/>
       {{ pub.pubin }}
     </li>
   {% endif %}
