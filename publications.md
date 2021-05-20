@@ -34,10 +34,9 @@ permalink: /publications/
 {% endfor %}
 </ul>
 
-<!--<script>document.write(Date());</script>-->
 <script>
     var x = document.getElementsByClassName("authors");
     for (var i = 0; i < x.length; i++) {
-        document.body.innerHTML = document.body.innerHTML.replace('Zhijie Wang', "Zhijie Wang".bold());
+        document.body.innerHTML = document.body.innerHTML.replace('Zhijie Wang', "<u>Zhijie Wang</u>".bold());
     }
 </script>
