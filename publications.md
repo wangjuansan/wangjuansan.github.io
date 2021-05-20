@@ -21,7 +21,7 @@ permalink: /publications/
   {% if pub.show %}
     <li>
       {{ pub.title }}<br/>
-      {{ pub.authors }}.replace("Zhijie Wang", <u>Zhijie Wang</u>)<br/>
+      {{ pub.authors.replace("Zhijie Wang", <u>Zhijie Wang</u>) }}<br/>
       {{ pub.pubin }}
     </li>
   {% endif %}
