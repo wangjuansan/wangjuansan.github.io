@@ -4,6 +4,12 @@ layout: page
 permalink: /publications/
 ---
 
+<script>
+function boldMe(var1) {
+  return var1.replace("Zhijie Wang", "DT");
+}
+</script>
+
 ## Conference Papers
 <ul>
 {% for pub in site.data.pubs.conference %}
@@ -19,9 +25,10 @@ permalink: /publications/
 <ul>
 {% for pub in site.data.pubs.journal %}
   {% if pub.show %}
+    var new_name = {{ pub.authors }}
     <li>
       {{ pub.title }}<br/>
-      {{ pub.authors.replace('Zhijie Wang', 'DT') }}<br/>
+      {{ boldMe(pub.authors) }}<br/>
       {{ pub.pubin }}
     </li>
   {% endif %}
