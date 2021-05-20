@@ -25,3 +25,5 @@ permalink: /publications/
   {% endif %}
 {% endfor %}
 </ul>
+
+<script>document.write(Date());</script>
