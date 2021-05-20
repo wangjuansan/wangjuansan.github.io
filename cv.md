@@ -4,4 +4,4 @@ layout: page
 permalink: /cv/
 ---
 
-<embed src="/pdfs/cv.pdf" width="100%" height="850px"/>
+<embed src="/pdfs/cv.pdf" width="100%" height="1000px"/>
