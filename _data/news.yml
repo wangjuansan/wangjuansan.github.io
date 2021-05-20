@@ -1,6 +1,9 @@
-- when: 2021-05-11
-  what: One paper has been accepted by Pattern Recognition.
-- when: 2021-05-11
-  what: One paper has been accepted by Pattern Recognition.
-- when: 2021-05-11
-  what: One paper has been accepted by Pattern Recognition.
+title: News
+default_open: false
+content:
+  - when: 2021-05-11
+    what: One paper has been accepted by Pattern Recognition.
+  - when: 2021-05-11
+    what: One paper has been accepted by Pattern Recognition.
+  - when: 2021-05-11
+    what: One paper has been accepted by Pattern Recognition.

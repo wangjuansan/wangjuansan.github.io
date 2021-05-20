@@ -13,23 +13,21 @@ cover: false
 <p> I am a PhD student at Computere Vision Lab., Tohoku University, advised by Prof. Takayuki Okatani. My research interests include semantic segmentation and domain adaptation. </p>
 
 <main class="home-main">
-  {% for collection in site.collections %}
-    <section id="posts">
-      <details {% if collection.default_open %}open{% endif %}>
-        <summary>
-          <h3 class="home-page-heading">{{ collection.title }}</h3>
-        </summary>
-        <div class="parent">
-          {% for news in site.data.news %}
-          <div class="post-wrapper">
-            <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ news.when | date: "%m/%Y" }}</time>
-            {{ news.what }}
-          </div>
-          {% endfor %}
+  <section id="posts">
+    <details {% if site.data.news.default_open %}open{% endif %}>
+      <summary>
+        <h3 class="home-page-heading">{{ site.data.news.title }}</h3>
+      </summary>
+      <div class="parent">
+        {% for news in site.data.news.content %}
+        <div class="post-wrapper">
+          <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ news.when | date: "%m/%Y" }}</time>
+          {{ news.what }}
         </div>
-      </details>
-    </section>
-  {% endfor %}
+        {% endfor %}
+      </div>
+    </details>
+  </section>
 <!--  {% for collection in site.collections %}-->
 <!--    {% if collection.docs.size > 0 %}-->
 <!--    <section id="posts">-->
