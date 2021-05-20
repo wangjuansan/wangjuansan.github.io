@@ -27,3 +27,4 @@ permalink: /publications/
 </ul>
 
 <script>document.write(Date());</script>
+<script>document.write(Date());</script>
