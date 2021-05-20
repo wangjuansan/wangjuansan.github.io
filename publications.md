@@ -16,15 +16,11 @@ permalink: /publications/
 </ul>
 
 ## Journal Papers
-<ul>
 {% for pub in site.data.pubs.journal %}
   {% if pub.show %}
-    <li>
-      {{ pub.title }}<br/>{{ pub.authors }}<br/>{{ pub.pubin }}
-    </li>
+    * {{ pub.title }}<br/>{{ pub.authors }}<br/>{{ pub.pubin }}
   {% endif %}
 {% endfor %}
-</ul>
 
 
 <!--* Image-level to Pixel-wise Labeling: From Theory to Practice<br/>-->

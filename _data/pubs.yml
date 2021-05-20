@@ -9,5 +9,5 @@ journal:
   - title: "EFNet: Enhancement-Fusion Network for Semantic Segmentation"
     authors: Zhijie Wang, Ran Song, Peng Duan, Xiaolei Li
     pubin: Pattern Recognition
-    show: false
+    show: true
     link:
