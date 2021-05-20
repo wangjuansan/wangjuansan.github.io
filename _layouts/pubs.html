@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<script>
+function boldMe(var1) {
+  return var1.replace("Zhijie Wang", "DT");
+}
+</script>
+
+<header>
+    <h1>{{ page.title }}</h1>
+</header>
+
+<hr class="stylish"/>
+
+<main role="main">
+
+    <article>
+        boldMe({{content}})
+    </article>
+
+</main>
