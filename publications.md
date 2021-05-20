@@ -10,9 +10,7 @@ permalink: /publications/
   {% if pub.show %}
     <li>
       {{ pub.title }}<br/>
-      <div class="authors">
-        {{ pub.authors }}<br/>
-      </div>
+      {{ pub.authors }}<br/>
       {{ pub.pubin }}
     </li>
   {% endif %}
@@ -25,18 +23,19 @@ permalink: /publications/
   {% if pub.show %}
     <li>
       {{ pub.title }}<br/>
-      <div class="authors">
-        {{ pub.authors }}<br/>
-      </div>
+      <script>
+        document.body.innerHTML = document.body.innerHTML.replace('Zhijie Wang', "<u>Zhijie Wang</u>".bold());
+      </script>
+      {{ pub.authors }}<br/>
       {{ pub.pubin }}
     </li>
   {% endif %}
 {% endfor %}
 </ul>
 
-<script>
-    var x = document.getElementsByClassName("authors");
-    for (var i = 0; i < x.length; i++) {
-        document.body.innerHTML = document.body.innerHTML.replace('Zhijie Wang', "<u>Zhijie Wang</u>".bold());
-    }
-</script>
+<!--<script>-->
+<!--    var x = document.getElementsByClassName("authors");-->
+<!--    for (var i = 0; i < x.length; i++) {-->
+<!--        document.body.innerHTML = document.body.innerHTML.replace('Zhijie Wang', "<u>Zhijie Wang</u>".bold());-->
+<!--    }-->
+<!--</script>-->
