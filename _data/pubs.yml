@@ -7,13 +7,13 @@ conference:
   - title: "Salient Object Detection by Pyramid Networks with Gating"
     authors: Mingxin Zhang, Zhijie Wang, Tiezhu Sun, Xiaolei Li
     pubin: The 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO 2019)
-    show: true
+    show: false
     link:
 journal:
   - title: "Salient Object Detection with Adversarial Training"
     authors: Zhijie Wang, Wei Zhang, Xuewen Rong, Yibin Li
     pubin: IET Image Processing
-    show: true
+    show: false
     link:
   - title: "EFNet: Enhancement-Fusion Network for Semantic Segmentation"
     authors: Zhijie Wang, Ran Song, Peng Duan, Xiaolei Li
