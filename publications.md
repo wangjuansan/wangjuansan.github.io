@@ -20,7 +20,9 @@ permalink: /publications/
 {% for pub in site.data.pubs.journal %}
   {% if pub.show %}
     <li>
-      {{ pub.title }}<br/>{{ pub.authors }}<br/>{{ pub.pubin }}
+      {{ pub.title }}<br/>
+      {{ pub.authors }}.replace("Zhijie Wang", <u>Zhijie Wang</u>)<br/>
+      {{ pub.pubin }}
     </li>
   {% endif %}
 {% endfor %}
