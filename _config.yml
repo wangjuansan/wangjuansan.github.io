@@ -6,11 +6,5 @@ markdown: kramdown
 highlighter: rouge
 javascript_enabled: true
 
-collections:
-  news:
-    title: News
-    default_open: true
-    output: true
-
 plugins:
   - jekyll-sitemap
