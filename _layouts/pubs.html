@@ -17,7 +17,10 @@ function boldMe(var1) {
 <main role="main">
 
     <article>
-        boldMe({{content}})
+        <script>
+            {{ content }}.replace("Zhijie Wang", "DT");
+        </script>
+        {{content}}
     </article>
 
 </main>
