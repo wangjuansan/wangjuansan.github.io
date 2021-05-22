@@ -35,5 +35,5 @@ permalink: /publications/
 </ul>
 
 <script>
-    document.body.innerHTML = document.body.innerHTML.replace(/Zhijie Wang/g, "<u>Zhijie Wang</u>".bold());
+    document.body.innerHTML = document.body.innerHTML.replace(/Zhijie Wang/g, "<u>Zhijie Wang</u>");
 </script>
