@@ -34,6 +34,21 @@ permalink: /publications/
 {% endfor %}
 </ul>
 
+## Preprint
+<ul>
+{% for pub in site.data.pubs.preprint %}
+  {% if pub.show %}
+    <li>
+      {{ pub.title }}<br/>
+      <div class="authors">
+        {{ pub.authors }}<br/>
+      </div>
+      {{ pub.pubin }}
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
 <script>
     document.body.innerHTML = document.body.innerHTML.replace(/Zhijie Wang/g, "<u>Zhijie Wang</u>");
 </script>

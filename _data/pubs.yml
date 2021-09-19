@@ -20,3 +20,14 @@ journal:
     pubin: Pattern Recognition
     show: true
     link:
+preprint:
+  - title: "Cross-Region Domain Adaptation for Class-level Alignment"
+    authors: Zhijie Wang, Xing Liu, Masanori Suganuma, Takayuki Okatani 
+    pubin: arXiv:2109.06422
+    show: true
+    link: https://arxiv.org/abs/2109.06432
+  - title: "Improved Few-shot Segmentation by Redefinition of the Roles of Multi-level CNN Features"
+    authors: Zhijie Wang, Masanori Suganuma, Takayuki Okatani 
+    pubin: arXiv:2109.06432
+    show: true
+    link: https://arxiv.org/abs/2109.06432
