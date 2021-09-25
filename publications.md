@@ -34,7 +34,7 @@ permalink: /publications/
 {% endfor %}
 </ul>
 
-## Preprint
+## Preprints
 <ul>
 {% for pub in site.data.pubs.preprint %}
   {% if pub.show %}
