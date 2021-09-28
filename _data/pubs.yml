@@ -3,7 +3,7 @@ conference:
     authors: Tiezhu Sun, Wei Zhang, Zhijie Wang, Lin Ma, Zequn Jie
     pubin: The 27th International Joint Conference on Artificial Intelligence (IJCAI 2018)
     show: true
-    pdf:
+    pdf: https://www.ijcai.org/proceedings/2018/0129.pdf
   - title: "Salient Object Detection by Pyramid Networks with Gating"
     authors: Mingxin Zhang, Zhijie Wang, Tiezhu Sun, Xiaolei Li
     pubin: The 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO 2019)
@@ -25,7 +25,7 @@ preprint:
     authors: Zhijie Wang, Xing Liu, Masanori Suganuma, Takayuki Okatani 
     pubin: arXiv:2109.06422
     show: true
-    pdf: https://arxiv.org/abs/2109.06432
+    pdf: https://arxiv.org/abs/2109.06422
   - title: "Improved Few-shot Segmentation by Redefinition of the Roles of Multi-level CNN Features"
     authors: Zhijie Wang, Masanori Suganuma, Takayuki Okatani 
     pubin: arXiv:2109.06432
