@@ -1,7 +1,7 @@
 conference:
   - title: "Image-level to Pixel-wise Labeling: From Theory to Practice"
     authors: Tiezhu Sun, Wei Zhang, Zhijie Wang, Lin Ma, Zequn Jie
-    pubin: The 27th International Joint Conference on Artificial Intelligence (IJCAI 2018)
+    pubin: IJCAI 2018
     show: true
     pdf: https://www.ijcai.org/proceedings/2018/0129.pdf
   - title: "Salient Object Detection by Pyramid Networks with Gating"
