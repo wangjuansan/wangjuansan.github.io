@@ -43,7 +43,8 @@ permalink: /publications/
       <div class="authors">
         {{ pub.authors }}<br/>
       </div>
-      {{ pub.pubin, {% if pub.showlink %}[link]{% endif %}}}
+      {{ pub.pubin }}
+      {% if pub.link %}link{% endif %}
     </li>
   {% endif %}
 {% endfor %}
