@@ -1,3 +1,5 @@
+# entries: title, authors, pubin, show, pdf
+
 conference:
   - title: "Image-level to Pixel-wise Labeling: From Theory to Practice"
     authors: Tiezhu Sun, Wei Zhang, Zhijie Wang, Lin Ma, Zequn Jie
@@ -8,18 +10,15 @@ conference:
     authors: Mingxin Zhang, Zhijie Wang, Tiezhu Sun, Xiaolei Li
     pubin: The 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO 2019)
     show: false
-    pdf:
 journal:
   - title: "Salient Object Detection with Adversarial Training"
     authors: Zhijie Wang, Wei Zhang, Xuewen Rong, Yibin Li
     pubin: IET Image Processing
     show: false
-    pdf:
   - title: "EFNet: Enhancement-Fusion Network for Semantic Segmentation"
     authors: Zhijie Wang, Ran Song, Peng Duan, Xiaolei Li
     pubin: Pattern Recognition
     show: true
-    pdf:
 preprint:
   - title: "Cross-Region Domain Adaptation for Class-level Alignment"
     authors: Zhijie Wang, Xing Liu, Masanori Suganuma, Takayuki Okatani 
