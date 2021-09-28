@@ -44,7 +44,7 @@ permalink: /publications/
         {{ pub.authors }}<br/>
       </div>
       {{ pub.pubin }}
-      {% if pub.pdf %}<a href="{{ pub.link }}"> | [PDF]</a>{% endif %}
+      {% if pub.pdf %} | <a href="{{ pub.link }}">[PDF]</a>{% endif %}
     </li>
   {% endif %}
 {% endfor %}
