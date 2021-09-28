@@ -14,7 +14,7 @@ permalink: /publications/
         {{ pub.authors }}<br/>
       </div>
       {{ pub.pubin }}
-      {% if pub.pdf %}<br/><a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i></a>{% endif %}
+      {% if pub.pdf %} | <a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i></a>{% endif %}
     </li>
   {% endif %}
 {% endfor %}
@@ -30,7 +30,7 @@ permalink: /publications/
         {{ pub.authors }}<br/>
       </div>
       {{ pub.pubin }}
-      {% if pub.pdf %}<br/><a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i></a>{% endif %}
+      {% if pub.pdf %} | <a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i></a>{% endif %}
     </li>
   {% endif %}
 {% endfor %}
@@ -46,7 +46,7 @@ permalink: /publications/
         {{ pub.authors }}
       </div>
       {{ pub.pubin }}
-      {% if pub.pdf %}<br/><a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i></a>{% endif %}
+      {% if pub.pdf %} | <a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i></a>{% endif %}
     </li>
   {% endif %}
 {% endfor %}
