@@ -5,5 +5,7 @@ content:
     what: One paper has been accepted by Pattern Recognition.
   - when: 2021-06-18
     what: I will work at Rakuten Institute of Technology as an intern research scientist in this summer.
+  - when: 2021-8-1
+    what: I have served as a reviewer of ACML 2021.
   - when: 2021-11-1
     what: I will serve as a reviewer of CVPR 2022.
