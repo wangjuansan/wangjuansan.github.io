@@ -14,8 +14,8 @@ permalink: /pubs/
         {{ pub.authors }}<br/>
       </div>
       {{ pub.pubin }}
-      {% if pub.pdf %} | <a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i></a>
-      {% if pub.code %} | <a href="{{ pub.code }}"><i class="far fa-file-pdf"></i></a>{% endif %}
+      {% if pub.pdf %} | <a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i></a>{% endif %}
+      {% if pub.code %} | <a href="{{ pub.code }}"><i class="far fa-github"></i></a>{% endif %}
     </li>
   {% endif %}
 {% endfor %}
@@ -31,8 +31,8 @@ permalink: /pubs/
         {{ pub.authors }}<br/>
       </div>
       {{ pub.pubin }}
-      {% if pub.pdf %} | <a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i></a>
-      {% if pub.code %} | <a href="{{ pub.code }}"><i class="far fa-file-pdf"></i></a>{% endif %}
+      {% if pub.pdf %} | <a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i></a>{% endif %}
+      {% if pub.code %} | <a href="{{ pub.code }}"><i class="far fa-github"></i></a>{% endif %}
     </li>
   {% endif %}
 {% endfor %}
@@ -48,8 +48,8 @@ permalink: /pubs/
         {{ pub.authors }}
       </div>
       {{ pub.pubin }}
-      {% if pub.pdf %} | <a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i></a>
-      {% if pub.code %} | <a href="{{ pub.code }}"><i class="far fa-file-pdf"></i></a>{% endif %}
+      {% if pub.pdf %} | <a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i></a>{% endif %}
+      {% if pub.code %} | <a href="{{ pub.code }}"><i class="far fa-github"></i></a>{% endif %}
     </li>
   {% endif %}
 {% endfor %}
