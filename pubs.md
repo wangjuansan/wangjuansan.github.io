@@ -15,7 +15,7 @@ permalink: /pubs/
       </div>
       {{ pub.pubin }}
       {% if pub.pdf %} | <a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i></a>{% endif %}
-      {% if pub.code %} <a href="{{ pub.code }}"><i class="fa fa-github"></i></a>{% endif %}
+      {% if pub.code %}   <a href="{{ pub.code }}"><i class="fa fa-github"></i></a>{% endif %}
     </li>
   {% endif %}
 {% endfor %}
@@ -32,7 +32,7 @@ permalink: /pubs/
       </div>
       {{ pub.pubin }}
       {% if pub.pdf %} | <a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i></a>{% endif %}
-      {% if pub.code %} <a href="{{ pub.code }}"><i class="fa fa-github"></i></a>{% endif %}
+      {% if pub.code %}   <a href="{{ pub.code }}"><i class="fa fa-github"></i></a>{% endif %}
     </li>
   {% endif %}
 {% endfor %}
@@ -49,7 +49,7 @@ permalink: /pubs/
       </div>
       {{ pub.pubin }}
       {% if pub.pdf %} | <a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i></a>{% endif %}
-      {% if pub.code %} <a href="{{ pub.code }}"><i class="fa fa-github"></i></a>{% endif %}
+      {% if pub.code %}   <a href="{{ pub.code }}"><i class="fa fa-github"></i></a>{% endif %}
     </li>
   {% endif %}
 {% endfor %}
