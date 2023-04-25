@@ -31,3 +31,8 @@ preprint:
     pubin: arXiv:2109.06432
     show: true
     pdf: https://arxiv.org/abs/2109.06432
+  - title: "Rethinking Unsupervised Domain Adaptation for Semantic Segmentation"
+    authors: Zhijie Wang, Masanori Suganuma, Takayuki Okatani 
+    pubin: arXiv:2207.00067
+    show: true
+    pdf: https://arxiv.org/abs/2207.00067
