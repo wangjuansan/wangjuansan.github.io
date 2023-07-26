@@ -19,13 +19,13 @@ journal:
     authors: Zhijie Wang, Ran Song, Peng Duan, Xiaolei Li
     pubin: Pattern Recognition
     show: true
-preprint:
-  - title: "Cross-Region Domain Adaptation for Class-level Alignment"
+  - title: "Unsupervised domain adaptation for semantic segmentation via cross-region alignment"
     authors: Zhijie Wang, Xing Liu, Masanori Suganuma, Takayuki Okatani 
-    pubin: arXiv:2109.06422
+    pubin: Computer Vision and Image Understanding
     show: true
     pdf: https://arxiv.org/abs/2109.06422
     code: https://github.com/zhijiew/CRA
+preprint:
   - title: "Improved Few-shot Segmentation by Redefinition of the Roles of Multi-level CNN Features"
     authors: Zhijie Wang, Masanori Suganuma, Takayuki Okatani 
     pubin: arXiv:2109.06432
