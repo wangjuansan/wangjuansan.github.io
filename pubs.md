@@ -56,5 +56,6 @@ permalink: /pubs/
 </ul>
 
 <script>
-    document.body.innerHTML = document.body.innerHTML.replace(/Zhijie Wang/g, "<u>Zhijie Wang</u>");
+    document.body.innerHTML = document.body.innerHTML.replace(/Juan Wang/g, "<u>Juan Wang</u>");
+    document.body.innerHTML = document.body.innerHTML.replace(/Wang J/g, "<u>Wang J</u>");
 </script>
