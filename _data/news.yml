@@ -1,13 +1,7 @@
 title: News
 default_open: true
 content:
-  - when: 2021-05-11
-    what: One paper has been accepted by Pattern Recognition.
-  - when: 2021-06-18
-    what: I will work at Rakuten Institute of Technology as an intern research scientist in this summer.
-  - when: 2021-8-1
-    what: I have served as a reviewer of ACML 2021.
-  - when: 2021-11-1
-    what: I will serve as a reviewer of CVPR 2022.
-  - when: 2022-3-1
-    what: I will serve as a reviewer of ECCV 2022.
+  - when: 2023-11
+    what: I was invited to take The 20th International Workshops on Emerging ICT, 2023 in Tohoku University.
+  - when: 2023-10
+    what: I was invited to take 4th International Workshop on Education and Research for Future Electronics in Nagoya University..

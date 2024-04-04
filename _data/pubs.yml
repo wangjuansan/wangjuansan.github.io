@@ -1,38 +1,22 @@
 # entries: title, authors, pubin, show, pdf
-
 conference:
-  - title: "Image-level to Pixel-wise Labeling: From Theory to Practice"
-    authors: Tiezhu Sun, Wei Zhang, Zhijie Wang, Lin Ma, Zequn Jie
-    pubin: IJCAI 2018
+  - title: "Language-Driven Open-World 3D Scene Understanding with Semantic-Level Supervision(Oral)"
+    authors: Juan Wang, Zhijie Wang, Yaohou Fan, Tomo Miyazaki, Shinichiro Omachi.
+    pubin: The 20th International Workshops on Emerging ICT, 2023.
     show: true
-    pdf: https://www.ijcai.org/proceedings/2018/0129.pdf
-  - title: "Salient Object Detection by Pyramid Networks with Gating"
-    authors: Mingxin Zhang, Zhijie Wang, Tiezhu Sun, Xiaolei Li
-    pubin: The 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO 2019)
-    show: false
+    # pdf: https://www.ijcai.org/proceedings/2018/0129.pdf
+  - title: "Language-Driven Open-World 3D Scene Understanding"
+    authors: Juan Wang, Tomo Miyazaki, Shinichiro Omachi.
+    pubin: 4th International Workshop on Education and Research for Future Electronics, 2023.
+    show: true
 journal:
-  - title: "Salient Object Detection with Adversarial Training"
-    authors: Zhijie Wang, Wei Zhang, Xuewen Rong, Yibin Li
-    pubin: IET Image Processing
-    show: false
-  - title: "EFNet: Enhancement-Fusion Network for Semantic Segmentation"
-    authors: Zhijie Wang, Ran Song, Peng Duan, Xiaolei Li
-    pubin: Pattern Recognition
+  - title: "An end-to-end deep neural network  is proposed to detect aluminum profile defects."
+    authors: Wang J, Meng Z H.
+    pubin: Journal of Physics.
     show: true
-  - title: "Unsupervised domain adaptation for semantic segmentation via cross-region alignment"
-    authors: Zhijie Wang, Xing Liu, Masanori Suganuma, Takayuki Okatani 
-    pubin: Computer Vision and Image Understanding
-    show: true
-    pdf: https://arxiv.org/abs/2109.06422
-    code: https://github.com/zhijiew/CRA
+    pdf: https://iopscience.iop.org/article/10.1088/1742-6596/1544/1/012074/pdf
 preprint:
-  - title: "Improved Few-shot Segmentation by Redefinition of the Roles of Multi-level CNN Features"
-    authors: Zhijie Wang, Masanori Suganuma, Takayuki Okatani 
-    pubin: arXiv:2109.06432
+  - title: "Improved Open-Vocabulary 3D Scene Understanding via Masked Feature Alignment"
+    authors: Juan Wang, ZhiJie Wang, Tomo Miyazaki, Shinichiro Omachi. 
+    # pubin: arXiv:2109.06432
     show: true
-    pdf: https://arxiv.org/abs/2109.06432
-  - title: "Rethinking Unsupervised Domain Adaptation for Semantic Segmentation"
-    authors: Zhijie Wang, Masanori Suganuma, Takayuki Okatani 
-    pubin: arXiv:2207.00067
-    show: true
-    pdf: https://arxiv.org/abs/2207.00067
