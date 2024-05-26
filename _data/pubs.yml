@@ -1,5 +1,9 @@
 # entries: title, authors, pubin, show, pdf
 conference:
+  - title: "Improved Open-Vocabulary 3D Scene Understanding via Masked Feature Alignment"
+    authors: Juan Wang, Zhijie Wang, Tomo Miyazaki, Shinichiro Omachi.
+    pubin: 画像の認識・理解シンポジウム MIRU, 2024.
+    show: true
   - title: "Language-Driven Open-World 3D Scene Understanding with Semantic-Level Supervision(Oral)"
     authors: Juan Wang, Zhijie Wang, Yaohou Fan, Tomo Miyazaki, Shinichiro Omachi.
     pubin: The 20th International Workshops on Emerging ICT, 2023.
@@ -15,8 +19,8 @@ journal:
     pubin: Journal of Physics.
     show: true
     pdf: https://iopscience.iop.org/article/10.1088/1742-6596/1544/1/012074/pdf
-preprint:
-  - title: "Improved Open-Vocabulary 3D Scene Understanding via Masked Feature Alignment"
-    authors: Juan Wang, ZhiJie Wang, Tomo Miyazaki, Shinichiro Omachi. 
-    # pubin: arXiv:2109.06432
-    show: true
+# preprint:
+#   - title: "Improved Open-Vocabulary 3D Scene Understanding"
+#     authors: Juan Wang, ZhiJie Wang, Tomo Miyazaki, Shinichiro Omachi. 
+#     # pubin: arXiv:2109.06432
+#     show: true

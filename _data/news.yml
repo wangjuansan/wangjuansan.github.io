@@ -1,6 +1,8 @@
 title: News
 default_open: true
 content:
+  - when: 2024-05
+    what: My paper 'Improved Open-Vocabulary 3D Scene Understanding via Masked Feature Alignment' was accepted by MIRU2024.
   - when: 2023-11
     what: I was invited to take The 20th International Workshops on Emerging ICT, 2023 in Tohoku University.
   - when: 2023-10
