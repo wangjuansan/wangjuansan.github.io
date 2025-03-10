@@ -17,7 +17,7 @@ jobs:
         git init
         git config --local user.name "${GITHUB_ACTOR}"
         git config --local user.email "wangjuan20220313@163.com"
-        export remote_repo="https://x-access-token:${{ secrets.PAT }}@github.com/wangjuansan/wangjuansan.git"
+        export remote_repo="https://x-access-token:${{ secrets.PAT }}@github.com/wangjuansan/wangjuansan.github.io.git"
         git add README.md
         git add images
         git commit -m "update my description automatically"
