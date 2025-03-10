@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Siteng Huang (黄思腾)"
-description              : "Focusing on multi-modal large models." # "Algorithm expert in DAMO Academy, Alibaba. Focusing on multi-modal large models."
-repository               : "bighuang624/bighuang624.github.io"
+title                    : "Juan Wang (王娟)"
+description              : "Ph.D Student in Tohoku University."
+repository               : "wangjuansan/wangjuansan.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Siteng Huang (黄思腾)"
+  name             : "Juan Wang (王娟)"
   avatar           : "images/profile.png"
-  bio              : "Algorithm Expert in Alibaba DAMO Academy"
-  location         : "Hangzhou, China"
+  bio              : "Ph.D Student in Tohoku University"
+  location         : "Sendai, Japan"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=mhpkWSYAAAAJ"
-  email            : "siteng.huang@gmail.com"
+  googlescholar    : # e.g., "https://scholar.google.com/citations?user=mhpkWSYAAAAJ"
+  email            : "wang.juan.t4@dc.tohoku.ac.jp"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -36,22 +36,24 @@ author:
   dribbble         :
   flickr           :
   facebook         :
+  Instagram        :
+  linkedin         :
   foursquare       :
-  github           : "bighuang624"
+  github           : "wangjuansan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.uni-trier.de/pid/251/9544.html"
-  orcid            : "https://orcid.org/0000-0002-9735-1186"
+  dblp             : # e.g., "https://dblp.uni-trier.de/pid/251/9544.html"
+  orcid            : # e.g., "https://orcid.org/0000-0002-9735-1186"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "KyonHuang"
+  twitter          : # e.g., "KyonHuang"
   vine             :
   weibo            :
   xing             :
