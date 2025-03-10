@@ -9,7 +9,7 @@
 title                    : "Juan Wang (王娟)"
 description              : "Ph.D Student in Tohoku University."
 repository               : "wangjuansan/wangjuansan.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
