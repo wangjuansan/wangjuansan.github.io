@@ -1,6 +1,6 @@
 # 💻 Work Experience
 
-* Teaching Assistance - **Data Engineering Data & Science Programming Fundamentals** in Tohoku University
+* Teaching Assistance - [**GSIS, Tohoku University**](https://www.is.tohoku.ac.jp/en/)
   * Course: Data Engineering Data & Science Programming Fundamentals
   * Time: Mar. 2022 - Jul.2024.
   * Place: Sendai, Japan.

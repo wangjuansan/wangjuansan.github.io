@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Juan Wang (王娟)"
-description              : "Ph.D @Tohoku University."
+description              : "3D Scene Understanding, 3D Segmentation, Object Detection."
 repository               : "wangjuansan/wangjuansan.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Juan Wang (王娟)"
   avatar           : "images/profile.png"
-  bio              : "3D Scene Understanding/Segmentation, object detection."
+  bio              : "Ph.D @Tohoku University."
   location         : "Sendai, Japan"
   employer         :
   pubmed           : 

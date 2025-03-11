@@ -33,7 +33,10 @@
 ## Conference
 
 - `MIRU 2024` Improved Open-Vocabulary 3D Scene Understanding via Masked Feature Alignment. **Juan Wang**, Zhijie Wang, Tomo Miyazaki, Shinichiro Omachi. [画像の認識・理解シンポジウム MIRU, 2024.](https://miru-committee.github.io/miru2024/)
-  <!-- - title: "Language-Driven Open-World 3D Scene Understanding with Semantic-Level Supervision(Oral)"
+  
+  
+  <!-- 
+  - title: "Language-Driven Open-World 3D Scene Understanding with Semantic-Level Supervision(Oral)"
     authors: Juan Wang, Zhijie Wang, Yaohou Fan, Tomo Miyazaki, Shinichiro Omachi.
     pubin: The 20th International Workshops on Emerging ICT, 2023.
     show: true
@@ -41,7 +44,8 @@
   - title: "Language-Driven Open-World 3D Scene Understanding"
     authors: Juan Wang, Tomo Miyazaki, Shinichiro Omachi.
     pubin: 4th International Workshop on Education and Research for Future Electronics, 2023.
-    show: true -->
+    show: true 
+  -->
 
 <!-- deep green: 004e00/49846a -->
 
