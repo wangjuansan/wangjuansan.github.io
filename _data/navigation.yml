@@ -15,9 +15,6 @@ main:
   # - title: "Research Interests"
   #   url: "/#-research-interests"
 
-  # - title: "Honors and Awards"
-  #   url: "/#-honors-and-awards"
-
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
@@ -27,11 +24,17 @@ main:
   - title: "Work Experience"
     url: "/#-work-experience"
 
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+      
+  - title: "Skills"
+    url: "/#-skills"
+
   # - title: "Services"
   #   url: "/#-services"
 
-  - title: "Misc"
-    url: "/#-misc"
+  # - title: "Misc"
+  #   url: "/#-misc"
 
   # - title: "Projects"
   #   url: /publications/
