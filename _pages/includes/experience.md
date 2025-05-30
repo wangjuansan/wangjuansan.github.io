@@ -1,8 +1,13 @@
 # 💻 Work Experience
+* Trainee - [**RGP, RIKEN**](https://grp.riken.jp/en/labs/multimodal_data_recognition/)
+  * Content: Conducted research on indoor 3D scene understanding under the supervision of [Dr. Kawanishi](https://yasutomo57jp.github.io/) during an internship with the Multimodal Data Recognition Research Team, part of the Guardian Robot Project (GRP) at RIKEN(理化学研究所).
+  * Time: May. 2025 - Aug.2025.
+  * Place: Remote-Sendai, Japan.
+
 
 * Teaching Assistance - [**GSIS, Tohoku University**](https://www.is.tohoku.ac.jp/en/)
   * Course: Data Engineering Data & Science Programming Fundamentals
-  * Time: Mar. 2022 - Jul.2024.
+  * Time: Mar. 2024 - Jul.2024.
   * Place: Sendai, Japan.
 
 

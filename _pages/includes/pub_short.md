@@ -25,7 +25,7 @@
 **Wang J**, Meng Z H.
 
 <!-- [**Project**](https://boostprompt.github.io/boostprompt/)  -->
-  - Proposed a Deformable Feature Pyramid module to detect aluminum profile defects..
+  - Proposed a Deformable Feature Pyramid module to detect aluminum profile defects.
 </div>
 </div>
 
