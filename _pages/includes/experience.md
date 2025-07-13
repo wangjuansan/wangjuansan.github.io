@@ -1,5 +1,5 @@
 # 💻 Work Experience
-* Computer Vision Research Intern - [**Baidu Inc., Global Business Unit**]
+* Computer Vision Research Intern - [**Baidu Inc., Global Business Unit**](https://ir.baidu.com/)
   * Content: Utilized diffusion models and deep learning technologies to develop intelligent image/video generation algorithms, delivering AI-powered visual content creation and image optimization solutions for global product offerings.
   * Time: Sep. 2025 - Nov.2025.
   * Place: Shenzhen, China.
