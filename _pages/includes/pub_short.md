@@ -31,7 +31,7 @@
 
 
 ## Conference
-- `MIRU 2024` Class-Agnostic 3D Segmentation without Manual Labels by 2D Mask Tracking. **Juan Wang**, Yasutomo Kawanishi, Zhijie Wang, Tomo Miyazaki, Shinichiro Omachi. [画像の認識・理解シンポジウム MIRU, 2025.](https://cvim.ipsj.or.jp/MIRU2025/)
+- `MIRU 2025` Class-Agnostic 3D Segmentation without Manual Labels by 2D Mask Tracking. **Juan Wang**, Yasutomo Kawanishi, Zhijie Wang, Tomo Miyazaki, Shinichiro Omachi. [画像の認識・理解シンポジウム MIRU, 2025.](https://cvim.ipsj.or.jp/MIRU2025/)
 - `MIRU 2024` Improved Open-Vocabulary 3D Scene Understanding via Masked Feature Alignment. **Juan Wang**, Zhijie Wang, Tomo Miyazaki, Shinichiro Omachi. [画像の認識・理解シンポジウム MIRU, 2024.](https://miru-committee.github.io/miru2024/)
   
   
