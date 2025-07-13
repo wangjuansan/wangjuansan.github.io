@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-ref: https://github.com/wangjuansan/wangjuansan.github.io/tree/main/_pages/includes
+<!-- ref: https://github.com/wangjuansan/wangjuansan.github.io/tree/main/_pages/includes -->
 
 <span class='anchor' id='about-me'></span>
 
