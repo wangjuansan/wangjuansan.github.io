@@ -31,6 +31,7 @@
 
 
 ## Conference
+- `ICONIP 2025` [Scene Text Reconstructor: A Contextual-Aware Masking Framework for Pre-training Text Detectors(Soptlight)](https://openreview.net/forum?id=GB7sjlORR8&referrer=%5Bthe%20profile%20of%20JUAN%20WANG%5D(%2Fprofile%3Fid%3D~JUAN_WANG6)). Yaohou Fan, Tomo Miyazaki, Zhengmi Tang, **Juan Wang**, Yongsong Huang, Shinichiro Omachi. [32nd International Conference on Neural Information Processing 35th Annual Meeting of Japanese Neural Network Society.](https://iconip2025.apnns.org/)
 - `MIRU 2025` Class-Agnostic 3D Segmentation without Manual Labels by 2D Mask Tracking. **Juan Wang**, Yasutomo Kawanishi, Zhijie Wang, Tomo Miyazaki, Shinichiro Omachi. [画像の認識・理解シンポジウム MIRU, 2025.](https://cvim.ipsj.or.jp/MIRU2025/)
 - `MIRU 2024` Improved Open-Vocabulary 3D Scene Understanding via Masked Feature Alignment. **Juan Wang**, Zhijie Wang, Tomo Miyazaki, Shinichiro Omachi. [画像の認識・理解シンポジウム MIRU, 2024.](https://miru-committee.github.io/miru2024/)
   
