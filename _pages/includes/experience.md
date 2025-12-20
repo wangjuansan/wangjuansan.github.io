@@ -1,11 +1,11 @@
 # 💻 Work Experience
 * Computer Vision Research Intern - [**Baidu Inc., Global Business Unit**](https://ir.baidu.com/)
-  * Content: Utilized diffusion models and deep learning technologies to develop intelligent image/video generation algorithms, delivering AI-powered visual content creation and image optimization solutions for global product offerings.
-  * Time: Sep. 2025 - Nov.2025.
+  * Content: Utilized diffusion models and deep learning technologies to develop intelligent image/video generation algorithms, delivering AI-powered visual content creation and image optimization solutions for global product offerings, under the supervision of [Doc. Zhang](https://scholar.google.com/citations?user=dcakOP4AAAAJ&hl=en).
+  * Time: Sep. 2025 - Feb.2026.
   * Place: Shenzhen, China.
 
 * Research Intern - [**RGP, RIKEN**](https://grp.riken.jp/en/labs/multimodal_data_recognition/)
-  * Content: Conducted research on indoor 3D scene understanding under the supervision of [Dr. Kawanishi](https://yasutomo57jp.github.io/) during an internship with the Multimodal Data Recognition Research Team, part of the Guardian Robot Project (GRP) at RIKEN(理化学研究所).
+  * Content: Conducted research on indoor 3D scene understanding under the supervision of [Prof. Kawanishi](https://yasutomo57jp.github.io/) during an internship with the Multimodal Data Recognition Research Team, part of the Guardian Robot Project (GRP) at RIKEN(理化学研究所).
   * Time: May. 2025 - Aug.2025.
   * Place: Remote-Kyoto, Japan.
 

@@ -3,18 +3,28 @@
 †: Equal contribution
 ✉: Corresponding author -->
 
-<!-- ### Peer-reviewed Conference -->
+<!-- ### Peer-reviewed Journal -->
 ## Journal
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/3dseg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Class-agnostic 3D Segmentation by Granularity-Consistent Automatic 2D Mask Tracking.](https://arxiv.org/abs/2511.00785) \\
+**Juan Wang**, Yasutomo Kawanishi, Tomo Miyazaki, Zhijie Wang, Shinichiro Omachi.
+<!-- [**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> -->
+  -The research advances annotation-free 3D instance segmentation by tracking 2D masks across video and training progressively, turning noisy frame-wise pseudo labels into coherent 3D supervision for accurate, open-vocabulary results.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2024</div><img src='images/tamc.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TAMC: Textual Alignment and Masked Consistency for Open-Vocabulary 3D Scene Understanding.](https://www.mdpi.com/1424-8220/24/19/6166) \\
 **Juan Wang**, Zhijie Wang, Tomo Miyazaki, Yaohou Fan, Shinichiro Omachi.
-
 <!-- [**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> -->
   - The research improves 3D scene understanding through masked consistency training and pseudo-text labels, effectively addressing sparse point cloud processing and training-inference inconsistency issues.
 </div>
 </div>
+
 
 
 
@@ -29,7 +39,7 @@
 </div>
 </div>
 
-
+<!-- ### Peer-reviewed Conference -->
 ## Conference
 - `ICONIP 2025` [Scene Text Reconstructor: A Contextual-Aware Masking Framework for Pre-training Text Detectors(Soptlight)](https://openreview.net/forum?id=GB7sjlORR8&referrer=%5Bthe%20profile%20of%20JUAN%20WANG%5D(%2Fprofile%3Fid%3D~JUAN_WANG6)). Yaohou Fan, Tomo Miyazaki, Zhengmi Tang, **Juan Wang**, Yongsong Huang, Shinichiro Omachi. [32nd International Conference on Neural Information Processing 35th Annual Meeting of Japanese Neural Network Society.](https://iconip2025.apnns.org/)
 - `MIRU 2025` Class-Agnostic 3D Segmentation without Manual Labels by 2D Mask Tracking. **Juan Wang**, Yasutomo Kawanishi, Zhijie Wang, Tomo Miyazaki, Shinichiro Omachi. [画像の認識・理解シンポジウム MIRU, 2025.](https://cvim.ipsj.or.jp/MIRU2025/)
