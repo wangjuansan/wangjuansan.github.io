@@ -1,6 +1,7 @@
 # 💻 Work Experience
 * Computer Vision Research Intern - [**Baidu Inc., Global Business Unit**](https://ir.baidu.com/)
-  * Content: Utilized diffusion models and deep learning technologies to develop intelligent image/video generation algorithms, delivering AI-powered visual content creation and image optimization solutions for global product offerings, under the supervision of [Doc. Zhang](https://scholar.google.com/citations?user=dcakOP4AAAAJ&hl=en).
+  * Content: Utilized diffusion models and deep learning technologies to develop intelligent image/video generation algorithms, delivering AI-powered visual content creation and image optimization solutions for global product offerings.
+  <!-- , under the supervision of [Doc. Zhang](https://scholar.google.com/citations?user=dcakOP4AAAAJ&hl=en). -->
   * Time: Sep. 2025 - Feb.2026.
   * Place: Shenzhen, China.
 
