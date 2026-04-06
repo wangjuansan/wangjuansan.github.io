@@ -6,13 +6,9 @@
 
 <!-- 👋 I'm a PhD student of [the Laboratory for Image Information Communications](http://www.iic.ecei.tohoku.ac.jp/) <a href="http://www.iic.ecei.tohoku.ac.jp/" target="_blank"></a> at [Tohoku University](https://www.tohoku.ac.jp/en/) <a href="https://www.tohoku.ac.jp/en/" target="_blank"></a> under the supervisor of Prof. [Shinichiro Omachi](https://scholar.google.com/citations?user=5YWMFLUAAAAJ&hl=en). Previously, I received M.S. from [HoHai University](https://en.hhu.edu.cn/) <a href="https://en.hhu.edu.cn/" target="_blank"></a> in Jun. 2021 and B.S. from JiShou University in Jun. 2018. -->
 
+<!-- 🧩 I am currently working on animatable 3D reconstruction (Gaussian Splatting / mesh-based) from visual/text inputs, with a focus on controllable motion and realistic deformation. If you are interested in this topic, feel free to reach out.
 
-🔬 My research interest includes **3D Reconstruction, 3D Scene Understanding, Image Recognition, Multi-modal (including images, language, 3d point cloud.)** and their applications based on deep learning and Convolutional Neural Networks.
-
-🧩 I am currently working on animatable 3D reconstruction (Gaussian Splatting / mesh-based) from visual/text inputs, with a focus on controllable motion and realistic deformation. If you are interested in this topic, feel free to reach out.
-
-🌟 I am currently seeking job opportunities and collaborators. If you are interested in my research, please feel free to contact me via **wang.juan.t4**[AT]**dc.tohoku.ac.jp** (replace [AT] with @).
-
+🌟 I am currently seeking job opportunities and collaborators. If you are interested in my research, please feel free to contact me via **wang.juan.t4**[AT]**dc.tohoku.ac.jp** (replace [AT] with @). -->
 
 <!-- 🔬 My research has centered on the **3D perception, understanding, reasoning, and generation of multimodal (including images, videos, language, dynamics, etc.) data from both the internet and the physical world**. I also focus on **efficientAI** (in terms of data, time, parameters, memory, etc.) for multimodal applications. I have published 20+ papers <a class='all_citation_badges' href="" target="_blank"></a> on the above topics at the top-tier international AI conferences. Recently, I devote myself to the development of multi-modal generative, embodied, and unified foundation models. -->
 <!-- <a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social" align="center" alt="Google Scholar"></a> -->
